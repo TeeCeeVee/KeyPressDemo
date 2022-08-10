@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\KeyPressApp\bin\Debug\KeyPressApp.exe.config
+C:\Users\theav\source\repos\KeyPressApp\bin\Debug\KeyPressApp.exe
+C:\Users\theav\source\repos\KeyPressApp\bin\Debug\KeyPressApp.pdb
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.KeyPressDemo.resources
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.Properties.Resources.resources
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.exe
+C:\Users\theav\source\repos\KeyPressApp\obj\Debug\KeyPressApp.pdb
